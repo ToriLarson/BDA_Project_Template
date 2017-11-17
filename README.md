@@ -22,4 +22,4 @@ JSON files stores data in a hierarchical with the use of commas, curly brackets 
 Here is an example of my [JSON File:](JSON_Practice.json)
 
 Here is a visual of that JSON tree:
-[JSONTREE](JSON_tree.jpeg)
+[JSONTREE](JSON_tree.jpg)
