@@ -1,4 +1,4 @@
-### Basics of CSV, JSON, and XML
+### Basics of CSV, JSON, and XML and HACKING
 
 November 7 - November 16, 2017
 
